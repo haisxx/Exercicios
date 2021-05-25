@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: black;
+        }
+        
+        div {
+            background: rgb(255, 255, 255);
+            color: black;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+            width: 120px;
+            height: 50px;
+            line-height: 50px;
+            border: solid 10px rgb(255, 196, 0);
+            margin: auto;
+            margin-top: 10px;
+            display: block;
+            border-radius: 10px;
+            padding: 30px 30px 30px 30px;
+            font-size: 22px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>Cícero</div>
+    <div>Prático</div>
+    <div>Heitor</div>
+</body>
+
+</html>
